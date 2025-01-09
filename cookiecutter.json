@@ -1,0 +1,9 @@
+{
+  "full_name": "Your Name",
+  "email": "you@example.com",
+  "project_name": "My CV Project",
+  "project_slug": "my_cv_project",
+  "python_version": "3.10",
+  "license": "MIT",
+  "poetry_version": "1.7.1"
+}
